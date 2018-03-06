@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Contenido remoto",
+		"description": "Con este complemento puedes tener el contenido de tu sitio en Github y sincronizado con tu sitio.<br>Leer más sobre este plugin en <a href=\"https://docs.bludit.com/en/bludit-pro/remote-content\">contenido remoto</a>."
+	},
+	"webhook": "Webhook",
+	"source": "Source",
+	"keep-content": "Keep content",
+	"complete-url-of-the-zip-file": "Complete URL of the zip file.",
+	"if-you-want-to-keep-the-content-generate-via-the-user-interface-enable-this-field": "If you want to keep the content generate via the user interface enable this field."
+}
