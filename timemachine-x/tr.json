@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Zaman Makinesi X",
+		"description": "Time Machine X, sitenizde küçük değişiklikler yaptığınız geçmişteki bir noktaya geri dönmenize izin verir. Bazı içerikleri sildiyseniz veya ayarlarda bazı değişiklikler yaptıysanız ve geri dönmek istiyorsanız yararlı olur."
+	},
+	"there-are-no-recovery-points": "Kurtarma noktası yok.",
+	"go-back-to-this-point": "Bu noktaya geri dönün"
+}
