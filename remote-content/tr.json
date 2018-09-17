@@ -1,0 +1,13 @@
+
+{
+	"plugin-data":
+	{
+		"name": "Uzak İçerik",
+		"description": "Bu eklenti ile sitenizin içeriğini Github'da ve sitenizle senkronize edebilirsiniz. <br> Bu eklenti hakkında daha fazla bilgi edinin <a href=\"https://docs.bludit.com/en/bludit-pro/remote-content\">Uzak İçerik</a>."
+	},
+	"webhook": "Web kancası",
+	"source": "Kaynak",
+	"keep-content": "İçeriği koru",
+	"complete-url-of-the-zip-file": "Zip dosyasının tam URL'si.",
+	"if-you-want-to-keep-the-content-generate-via-the-user-interface-enable-this-field": "İçeriği kullanıcı arayüzü üzerinden tutmak istiyorsanız bu alanı etkinleştirin."
+}
